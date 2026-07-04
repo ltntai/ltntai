@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there 👋, I'm **Tân Tài**
+# Hi there 👋, I'm **Tấn Tài**
 
 ### Frontend Developer • UI/UX Enthusiast • Creative Coder
 
@@ -18,20 +18,7 @@
 💡 Always learning and exploring new technologies
 ```
 
----
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ltntai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ltntai&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ltntai&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="80%"/>
-</div>
-
----
 
 ### 🛠️ Tech Stack & Tools
 
