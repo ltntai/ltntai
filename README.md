@@ -34,16 +34,38 @@ A legal, community-friendly TMDB movie discovery UI template.
 
 🔗 Repository: [Movie-UI-2026](https://github.com/ltntai/Movie-UI-2026)
 
-## 📊 GitHub stats
+## 🧭 Current focus
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ltntai&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ltntai&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</div>
+<table>
+  <tr>
+    <td><strong>UI Polish</strong></td>
+    <td>Building premium dark-mode layouts, landing pages and template interfaces.</td>
+  </tr>
+  <tr>
+    <td><strong>Frontend Skills</strong></td>
+    <td>Improving JavaScript structure, responsive design and reusable components.</td>
+  </tr>
+  <tr>
+    <td><strong>Open Source</strong></td>
+    <td>Preparing projects with clean README files, safe defaults and easy setup.</td>
+  </tr>
+</table>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ltntai&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</div>
+## 🧩 Project style
+
+```txt
+Design      ██████████  Dark UI / Glassmorphism
+Frontend    ████████░░  HTML / CSS / JavaScript
+Docs        ███████░░░  README + setup guides
+Shipping    ████████░░  Build, clean, deploy, improve
+```
+
+## 🎯 2026 goals
+
+- Ship more polished open-source UI templates
+- Improve project documentation and deployment quality
+- Build a stronger frontend portfolio
+- Learn by creating real projects and sharing them publicly
 
 ## 📌 What you'll find here
 
