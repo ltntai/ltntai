@@ -31,6 +31,16 @@ A premium personal profile / portfolio page for showcasing deployed products, co
 - Featured deployed products and social links
 - Built to highlight personal branding and frontend work
 
+### 🛠️ Google Cloud Code Hosts Fix
+
+A small Windows utility script that helps fix Google Cloud Code / Antigravity account setup issues caused by broken local `hosts` entries.
+
+- Repository: [google-cloudcode-hosts-fix](https://github.com/ltntai/google-cloudcode-hosts-fix)
+- Removes stale `cloudcode-pa.googleapis.com` hosts entries
+- Flushes Windows DNS cache automatically
+- Useful for local routing / 9Router / Antigravity troubleshooting
+- No API keys, tokens, accounts, or private credentials required
+
 ### 🎬 MovieUI2026
 
 A legal, community-friendly TMDB movie discovery UI template.
