@@ -1,4 +1,4 @@
-﻿# Hi, I'm Tai 👋
+# Hi, I'm Tai 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=720&lines=Frontend+Developer;UI%2FUX+Builder;Open-source+Movie+UI+Templates;Learning+and+shipping+projects" alt="Typing intro" />
@@ -20,7 +20,16 @@ My current focus is **HTML/CSS/JavaScript**, movie discovery UI templates, and f
   <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git,github,vscode,firebase,vercel" alt="Tech stack" />
 </p>
 
-## 🌟 Featured project
+## 🌟 Featured projects
+
+### 💎 Pro5 Portfolio
+
+A premium personal profile / portfolio page for showcasing deployed products, contact links, and frontend UI style.
+
+- Live portfolio: [biyos.id.vn](https://biyos.id.vn)
+- Modern dark UI with colorful product cards
+- Featured deployed products and social links
+- Built to highlight personal branding and frontend work
 
 ### 🎬 MovieUI2026
 
